@@ -1,0 +1,1 @@
+This folder contains a list of programs for implementing OLS regression. There is some needless modularization here that was done because I was getting used to the matlab syntax for functions rather than for ease of programming or better organization. 
